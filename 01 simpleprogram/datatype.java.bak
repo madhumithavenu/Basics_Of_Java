@@ -1,0 +1,10 @@
+class datatype
+{
+	public static void main(String args[])
+	{
+		byte a = 5;
+		byte b;
+		b = a;
+		System.out.println("value of b is" + b);
+	}
+}
